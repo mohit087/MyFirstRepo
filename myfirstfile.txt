@@ -1,0 +1,2 @@
+My first line in this file
+second line to show merge conflict 
