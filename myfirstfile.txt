@@ -1,2 +1,2 @@
 My first line in this file , no changes
-second line to show merge conflict 
+second line to show merge conflict - has started
