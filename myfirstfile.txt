@@ -1,4 +1,6 @@
+
 2. My first line in this file , no changes. -- this is merge conflict 
+
 1 My first line in this file , no changes
 
 second line to show merge conflict - has started
